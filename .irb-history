@@ -1,0 +1,31 @@
+start_test_server_in_background
+start_test_server_in_background
+reinstall_apps
+start_test_server_in_background
+start_test_serve
+start_test_s
+exit
+start_test_server_in_background
+query('*')
+query('*')
+exit
+start_test_server_in_background
+touch("* id:'walkthrough_btnSkip'")
+touch(query("* id:'menu'"))
+query('*id')
+touch(query("* id:'text1'"))
+touch(query("* id:'text1'"))
+touch(query("* id:'text2'"))
+touch(query("* text:'CENTRAL DE AJUDA'"))
+touch(query("* text:'CENTRAL DE AJUDA'"))
+touch(query("* text:'PERGUNTAS FREQUENTES'"))
+touch(query("* text:'PERGUNTAS FREQUENTES'"))
+query('*id')
+touch(query("* id:'compHelpHeader_lblTitle'"))
+query('*')
+query('*')
+query("webView css:'*'")
+start_test_server_in_background
+touch(query("* id:'menu'"))
+start_test_server_in_background
+exit
